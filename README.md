@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **android projects**
 
-- 👨‍💻 All of my projects are available at [https://ritucodes.netlify.app](https://ritucodes.netlify.app)
+- 👨‍💻 All of my projects are available at [https://ritesh18.vercel.app/)
 
 - 💬 Ask me about **DSA , MERN , Front-end and Back-end**
 
