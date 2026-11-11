@@ -102,7 +102,18 @@
 <a href="https://auth.geeksforgeeks.org/user/lostboi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="lostboi" height="30" width="40" /></a>
 </p>
 
-### ☕ Support
-<p><a href="https://www.buymeacoffee.com/chavanritesh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chavanritesh" /></a></p><br><br>
+### 📊 GitHub activity
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chavanritesh18&" alt="chavanritesh18" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=chavanritesh18&hide_border=true&background=0F2027&stroke=2C5364&ring=38BDF8&fire=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub streak" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chavanritesh18&bg_color=0F2027&color=CBD5E1&line=38BDF8&point=FFFFFF&area=true&area_color=38BDF8&hide_border=true&title_color=FFFFFF" alt="Contribution graph" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/chavanritesh"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"/></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
