@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" width="1200" height="230" role="img" aria-label="Automate everything. Observe everything. Ship fearlessly.">
+<defs>
+<linearGradient id="w1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0f2027"/><stop offset="0.5" stop-color="#203a43"/><stop offset="1" stop-color="#2c5364"/></linearGradient>
+<linearGradient id="w2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2c5364"/><stop offset="0.5" stop-color="#0B1530"/><stop offset="1" stop-color="#030712"/></linearGradient>
+<linearGradient id="tg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38BDF8"/><stop offset="0.5" stop-color="#A78BFA"/><stop offset="1" stop-color="#F472B6"/></linearGradient>
+</defs>
+<text x="600.0" y="52" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="22" font-weight="700" fill="url(#tg)">Automate everything. Observe everything. Ship fearlessly.</text>
+<text x="600.0" y="82" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#64748B" letter-spacing="2">— RITESH CHAVAN · PUNE, INDIA —</text>
+<g opacity="0.55"><path d="M0 150 q75.0 -14 150.0 0 t150.0 0 q75.0 -14 150.0 0 t150.0 0 q75.0 -14 150.0 0 t150.0 0 q75.0 -14 150.0 0 t150.0 0 q75.0 -14 150.0 0 t150.0 0 q75.0 -14 150.0 0 t150.0 0 q75.0 -14 150.0 0 t150.0 0 q75.0 -14 150.0 0 t150.0 0 q75.0 -14 150.0 0 t150.0 0 V230 H0 Z" fill="url(#w1)"/><animateTransform attributeName="transform" type="translate" values="0 0;-300 0" dur="7s" repeatCount="indefinite"/></g>
+<g><path d="M0 170 q60.0 -10 120.0 0 t120.0 0 q60.0 -10 120.0 0 t120.0 0 q60.0 -10 120.0 0 t120.0 0 q60.0 -10 120.0 0 t120.0 0 q60.0 -10 120.0 0 t120.0 0 q60.0 -10 120.0 0 t120.0 0 q60.0 -10 120.0 0 t120.0 0 q60.0 -10 120.0 0 t120.0 0 q60.0 -10 120.0 0 t120.0 0 q60.0 -10 120.0 0 t120.0 0 q60.0 -10 120.0 0 t120.0 0 V230 H0 Z" fill="url(#w2)"/><animateTransform attributeName="transform" type="translate" values="-240 0;0 0" dur="5s" repeatCount="indefinite"/></g>
+</svg>
