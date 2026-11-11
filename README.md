@@ -64,7 +64,7 @@
 ### ☁️ Cloud & DevOps
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
@@ -104,7 +104,5 @@
 
 ### ☕ Support
 <p><a href="https://www.buymeacoffee.com/chavanritesh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chavanritesh" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chavanritesh18&show_icons=true&locale=en&layout=compact" alt="chavanritesh18" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chavanritesh18&" alt="chavanritesh18" /></p>
