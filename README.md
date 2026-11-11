@@ -109,11 +109,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chavanritesh18&bg_color=0F2027&color=CBD5E1&line=38BDF8&point=FFFFFF&area=true&area_color=38BDF8&hide_border=true&title_color=FFFFFF" alt="Contribution graph" width="100%"/>
-</p>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/chavanritesh"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"/></a>
+  <a href="https://www.buymeacoffee.com/chavanritesh"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" height="40"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
