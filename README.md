@@ -1,26 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=RITESH%20CHAVAN&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI%20%E2%80%A2%20System%20Design&descAlignY=58&descSize=20" width="100%" alt="Ritesh Chavan"/>
-
-<a href="https://github.com/chavanritesh18"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=%24+kubectl+describe+engineer+ritesh-chavan;DevOps+%26+Cloud+Engineer+from+Pune%2C+India;Shipping+to+Kubernetes+the+GitOps+way;Building+AI+agents+that+debug+CI%2FCD;Designing+systems+that+scale;4x+Microsoft+Azure+Certified" alt="Typing intro"/></a>
-
-<br/>
+<img src="./assets/hero.svg" width="100%" alt="Ritesh Chavan · DevOps · Cloud · AI · System Design"/>
 
 <a href="https://linkedin.com/in/ritesh-chavan-one8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://instagram.com/the_ritesh18"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="mailto:chavanritesh322@gmail.com"><img src="https://img.shields.io/badge/Email-0F2027?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email"/></a>
-<a href="https://ritesh18.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F2027?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.leetcode.com/the_ritesh"><img src="https://img.shields.io/badge/LeetCode-0F2027?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/></a>
-<a href="https://www.hackerearth.com/@chavanritesh322"><img src="https://img.shields.io/badge/HackerEarth-0F2027?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth"/></a>
-<a href="https://auth.geeksforgeeks.org/user/lostboi"><img src="https://img.shields.io/badge/GeeksforGeeks-0F2027?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" alt="GeeksforGeeks"/></a>
-
+<a href="mailto:chavanritesh322@gmail.com"><img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email"/></a>
+<a href="https://ritesh18.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.leetcode.com/the_ritesh"><img src="https://img.shields.io/badge/LeetCode-0B1220?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/></a>
+<a href="https://www.hackerearth.com/@chavanritesh322"><img src="https://img.shields.io/badge/HackerEarth-0B1220?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth"/></a>
+<a href="https://auth.geeksforgeeks.org/user/lostboi"><img src="https://img.shields.io/badge/GeeksforGeeks-0B1220?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" alt="GeeksforGeeks"/></a>
 <img src="https://komarev.com/ghpvc/?username=chavanritesh18&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-## `$ whoami`
+## ⚡ Live from my cluster
+
+<img src="./assets/pods.svg" width="100%" alt="kubectl get pods -n ritesh: cloud-platform, k8s-gitops, iac-terraform, cicd-pipelines, devsecops, ai-failure-agent, system-design, observability all Running"/>
+
+<details>
+<summary><b>📄 <code>kubectl get engineer ritesh -o yaml</code></b> (click to expand)</summary>
 
 ```yaml
 apiVersion: human/v1
@@ -41,31 +41,29 @@ spec:
   impact:
     release_frequency: "+40%"   # CI/CD pipelines
     monthly_cloud_spend: "-15%" # Terraform right-sizing
+  certifications:
+    - azure-solutions-architect-expert
+    - azure-administrator (az-104)
+    - azure-devops-engineer-expert (az-400)
+    - fabric-data-engineer (dp-700)
+    - kubernetes-application-developer (kodekloud)
+  achievements: [smart-india-hackathon-2024-finalist]
+  education: b.tech-cs-it (gpa 8.44)
   creator: the-stack-engineer   # practical DevOps content
 status:
   phase: Running 🚀
   ask_me_about: [kubernetes, terraform, ci-cd, gitops, ai-for-devops, system-design]
 ```
 
+</details>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
 ## 🔁 How I ship
 
-```mermaid
-flowchart LR
-    DEV["👨‍💻 git push"] --> CI["⚙️ GitHub Actions / Jenkins"]
-    CI --> SEC["🔐 Tests + Security Scans"]
-    SEC --> IMG["🐳 Docker Image"]
-    IMG --> GITOPS["🔁 ArgoCD + Helm"]
-    TF["🏗️ Terraform"] --> K8S
-    GITOPS --> K8S["☸️ Kubernetes on AWS / Azure"]
-    K8S --> OBS["📈 Prometheus + Grafana"]
-    CI -. pipeline failed .-> AI["🤖 AI Failure Agent"]
-    AI -. root cause + fix .-> DEV
+<img src="./assets/pipeline.svg" width="100%" alt="git push → CI (Jenkins / GitHub Actions) → tests + security scans → Docker image → ArgoCD + Helm → Kubernetes on AWS / Azure → Prometheus + Grafana. Terraform provisions the platform; an AI agent triages failed pipelines and feeds the root cause back."/>
 
-    classDef dark fill:#0f2027,stroke:#38bdf8,stroke-width:2px,color:#ffffff;
-    classDef ai fill:#203a43,stroke:#f472b6,stroke-width:2px,color:#ffffff;
-    class DEV,CI,SEC,IMG,GITOPS,TF,K8S,OBS dark;
-    class AI ai;
-```
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## 🤖 AI × 🏗️ System Design
 
@@ -132,20 +130,18 @@ CLI that parses Terraform plan JSON and summarizes changes by risk.
 </tr>
 </table>
 
-## ⚡ Tech arsenal
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## 🧰 Tech arsenal
 
 <div align="center">
 
-**Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=azure,aws,kubernetes,docker,terraform,ansible,githubactions,jenkins,prometheus,grafana,linux,git&theme=dark" alt="Cloud and DevOps"/>
-
-<img src="https://img.shields.io/badge/ArgoCD-0F2027?style=for-the-badge&logo=argo&logoColor=EF7B4D" alt="ArgoCD"/>
-<img src="https://img.shields.io/badge/Helm-0F2027?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
-
-**AI, Data & Backend**
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,kafka,mongodb,mysql,nodejs,express,js,java,bash&theme=dark" alt="AI, Data and Backend"/>
+<img src="https://skillicons.dev/icons?i=azure,aws,kubernetes,docker,terraform,ansible,githubactions,jenkins,prometheus,grafana,linux,git&theme=dark" alt="Azure, AWS, Kubernetes, Docker, Terraform, Ansible, GitHub Actions, Jenkins, Prometheus, Grafana, Linux, Git"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,kafka,mongodb,mysql,nodejs,express,js,java,bash&theme=dark" alt="Python, FastAPI, Kafka, MongoDB, SQL, Node.js, Express, JavaScript, Java, Bash"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/ArgoCD-0B1220?style=for-the-badge&logo=argo&logoColor=EF7B4D" alt="ArgoCD"/>
+<img src="https://img.shields.io/badge/Helm-0B1220?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
 
 </div>
 
@@ -160,24 +156,22 @@ CLI that parses Terraform plan JSON and summarizes changes by risk.
 <br/>
 <img src="https://img.shields.io/badge/Kubernetes%20App%20Developer-KodeKloud-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Application Developer"/>
 <img src="https://img.shields.io/badge/Smart%20India%20Hackathon%202024-Finalist-FF9933?style=for-the-badge&logo=starship&logoColor=white" alt="SIH 2024 Finalist"/>
-<img src="https://img.shields.io/badge/B.Tech%20CS%20%26%20IT-GPA%208.44-0F2027?style=for-the-badge&logo=bookstack&logoColor=38BDF8" alt="B.Tech"/>
+<img src="https://img.shields.io/badge/B.Tech%20CS%20%26%20IT-GPA%208.44-0B1220?style=for-the-badge&logo=bookstack&logoColor=38BDF8" alt="B.Tech CS & IT, GPA 8.44"/>
 
 </div>
 
-## 📊 GitHub activity
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## 📈 Contributions
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=chavanritesh18&hide_border=true&background=0F2027&stroke=2C5364&ring=38BDF8&fire=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub streak" width="90%"/>
+<img src="https://streak-stats.demolab.com/?user=chavanritesh18&hide_border=true&background=0B1220&stroke=1E293B&ring=38BDF8&fire=F472B6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub streak" width="90%"/>
 
 <br/><br/>
 
-<a href="https://www.buymeacoffee.com/chavanritesh"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"/></a>
-
-<br/><br/>
-
-<i>Automate everything. Observe everything. Ship fearlessly.</i>
+<a href="https://www.buymeacoffee.com/chavanritesh"><img src="https://img.shields.io/badge/coffee--0x00-Pending%20%E2%86%92%20buy%20me%20one-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black&labelColor=0B1220" alt="Buy me a coffee"/></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=140&section=footer" width="100%" alt="footer"/>
+<img src="./assets/footer.svg" width="100%" alt="Automate everything. Observe everything. Ship fearlessly."/>
