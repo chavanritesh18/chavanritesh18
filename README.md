@@ -162,9 +162,17 @@ CLI that parses Terraform plan JSON and summarizes changes by risk.
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 📈 Contributions
+## 🐍 Contributions
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chavanritesh18/chavanritesh18/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chavanritesh18/chavanritesh18/output/snake.svg"/>
+  <img src="https://raw.githubusercontent.com/chavanritesh18/chavanritesh18/output/snake-dark.svg" alt="Snake eating my contribution graph" width="100%"/>
+</picture>
+
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=chavanritesh18&hide_border=true&background=0B1220&stroke=1E293B&ring=38BDF8&fire=F472B6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub streak" width="90%"/>
 
