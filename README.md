@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=300&section=header&text=RITESH%20CHAVAN&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=DevOps%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI%20%E2%80%A2%20System%20Design&descAlignY=64&descSize=22&stroke=38BDF8&strokeWidth=1" width="100%" alt="Ritesh Chavan"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=RITESH%20CHAVAN&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI%20%E2%80%A2%20System%20Design&descAlignY=58&descSize=20" width="100%" alt="Ritesh Chavan"/>
 
 <a href="https://github.com/chavanritesh18"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=%24+kubectl+describe+engineer+ritesh-chavan;DevOps+%26+Cloud+Engineer+from+Pune%2C+India;Shipping+to+Kubernetes+the+GitOps+way;Building+AI+agents+that+debug+CI%2FCD;Designing+systems+that+scale;4x+Microsoft+Azure+Certified" alt="Typing intro"/></a>
 
